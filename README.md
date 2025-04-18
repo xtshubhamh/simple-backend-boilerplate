@@ -31,13 +31,13 @@ backend/ │ ├── config/ │ └── db.js # (Optional) MongoDB connecti
 
 ## ⚙️ Run Server
 
-```bash
+ ```bash
 npm install
 npm run dev
 
 ## 👨‍💻 Author
-```bash
-
+ 
+ ```bash
 Made with ❤️ by Shubham Singh
 [![YouTube](https://img.shields.io/badge/YouTube-SS%20EFFORT-red?style=flat-square&logo=youtube)](https://youtube.com/@ss_effort) 
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/xtshubhamh/)  
