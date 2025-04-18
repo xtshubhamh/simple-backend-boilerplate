@@ -37,9 +37,10 @@ npm run dev
 
 
 
-#### Author Section:
-```markdown
 ## 👨‍💻 Author
 
-Made with ❤️ by **Shubham Singh**  
-YouTube: [SS EFFORT](https://youtube.com/@ss_effort)
+Made with ❤️ by **Shubham Singh**
+
+[![YouTube](https://img.shields.io/badge/YouTube-SS%20EFFORT-red?style=flat-square&logo=youtube)](https://youtube.com/@ss_effort) 
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/xtshubhamh/)  
+
